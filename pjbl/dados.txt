@@ -1,0 +1,20 @@
+960, Beta Aquarii, Aquarius, Aquario, 1
+506, Eta Piscium, Pisces, Peixes, 1
+441, Alpha Arietis, Aries, Aries, 1
+506, Beta Cancri, Cancer, Cancer, 1
+514, Polux, Gemini, Gemeos, 1
+538, Beta Librae, Libra, Libra, 1
+947, Regulus, Leo, Leao, 1
+1294, Espiga, Virgo, Virgem, 1
+797, Aldebara, Taurus, Touro, 1
+497, Antares, Scorpius, Escorpiao, 1
+867, Delta Capricorni, Capricornus, Capricornio, 1
+867, Epsilon Sagittarii, Sagittarius, Sagitario, 1
+594, Rigel, Orion, Orion, 0
+469.32, Alpha Phoenicis, Phoenix, Fenix, 0
+68, Acrux, Crux, Cruzeiro do Sul, 0
+722, Alpha Andromedae, Andromeda, Andromeda, 0
+125, Alpha Caeli, Caelum, Cinzel, 0
+249, Alpha Horologii, Horologium, Relogio, 0
+1121, Epsilon Pegasi, Pegasus, Cavalo Alado, 0
+221, Alpha Pyxidis, Pyxis, Bussola, 0
